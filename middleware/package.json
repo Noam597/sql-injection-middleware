@@ -1,6 +1,6 @@
 {
   "name": "detect-sql-injection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "detect sql syntax",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,16 @@
     "type": "git",
     "url": "https://github.com/Noam597/sql-injection-middleware.git"
   },
+  "keywords": [
+    "sql",
+    "injection",
+    "sqlinjection",
+    "security",
+    "express",
+    "expressjs",
+    "module",
+    "detect"
+    ],
   "author": "Noam",
   "license": "ISC",
   "dependencies": {
